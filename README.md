@@ -1,5 +1,7 @@
 Instant Delicacies screenshot
 
+Download all and set them into one folder
+
 ![about](https://user-images.githubusercontent.com/62498603/187739578-0bf8b997-01ff-4b5d-aa7d-a4138eacc97b.jpg)
 ![contactsw](https://user-images.githubusercontent.com/62498603/187739587-a3c850c8-64c6-4bd9-a980-3b36ffb37ed4.jpg)
 ![delivary](https://user-images.githubusercontent.com/62498603/187739591-68757a7f-11f9-4a82-bb61-fab61d4cd6ed.jpg)
